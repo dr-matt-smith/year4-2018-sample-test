@@ -3,7 +3,7 @@
 the test will involve:
 
 1. Fork Github repo
-2. Create copy a new UNity project into the master branch, with the provided files in directory `Editor`
+2. Create copy a new Unity project into the master branch, with the provided files in directory `Editor`
 2. Create a branch containing a text file with some given content (see question 1 below)
 2. Create files to pass all tests (see question 2 below)
 3. Commit changes
@@ -12,7 +12,7 @@ the test will involve:
 
 ## Question 1
 
-Creater a branch "poem"
+Create a branch "poem"
 in that branch create a directory `words` containing a file `haiku.md` containing the following:
 
 ```
